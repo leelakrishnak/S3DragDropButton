@@ -21,4 +21,4 @@ It is a simple custom component, this component is used like this.<br/>
   $<b> yarn start</b>
   
 
-#please checkout following express app test this component https://github.com/leelakrishnak/S3endpoints
+#please checkout following express app to use this component https://github.com/leelakrishnak/S3endpoints
